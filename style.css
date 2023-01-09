@@ -13,6 +13,11 @@
   background: #8543c2;
 }
 
+html,
+body {
+  overflow-x: hidden;
+}
+
 /* ----- HEADER - NAVBAR ----- */
 
 .navbar__wrapper {
